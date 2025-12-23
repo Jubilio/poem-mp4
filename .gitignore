@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env/
+venv/
+ENV/
+
+# Project specific
+ffmpeg/
+*.mp4
+*.mp3
+*.png
+*.jpg
+*.jpeg
+output.log
+
+# IDEs
+.vscode/
+.idea/
